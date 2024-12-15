@@ -35,7 +35,7 @@ under the License.
   </description>
 
   <properties>
-    <version.spring>4.0.6.RELEASE</version.spring>
+    <version.spring>6.1.14</version.spring>
   </properties>
 
   <build>
